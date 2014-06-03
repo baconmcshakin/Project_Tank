@@ -3,4 +3,4 @@ Project_Tank
 
 Tank game for IOS
 
-By Ethan Horing, Jack Phillips, Jose Lemus
+By Ethan Horing, Jack Phillips, Jose Lemus, Yi Zhao
