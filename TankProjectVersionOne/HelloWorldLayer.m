@@ -142,6 +142,7 @@
     }
     
     CCLOG(@"playerPos %@",CGPointCreateDictionaryRepresentation(playerPos));
+    //LOLOLOLOLOL
     
 }
 
